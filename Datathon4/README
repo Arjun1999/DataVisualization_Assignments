@@ -1,0 +1,14 @@
+This Submission folder consists of following :
+
+1. DimensionReduction.py    -> Re-ordering of matrices by projecting and ordering on the first principal component.
+2. SpectralOrdering.py      -> Re-ordering of matrices based on the Fiedler Vector computed from the Laplacian Matrix.
+3. Jupyter Notebooks folder -> An honest log of the entire procedure that went through in coming up with the final ".py" files
+4. Images	      	    -> The original ordering of the matrix, final outputs of both ".py" files
+
+Note : This submission just contains an added README to inform you of the following :-
+
+1. This is same as the previous submission with the only added change of addition of jupyter notebooks and images folder.
+2. The jupyter notebooks were added as this datathon took too much of time and I wasn't able to complete my technical report (personal opinion). The notebooks contain all trial and attempts that went through in coming up with the final clean algorithm.
+3. I have commented my code as appropriately as possible so the steps are clear. These algorithms were implemented by solely referring to the paper that was shared, "Matrix Reordering Methods for Table and Network Visualization".
+4. The sample dataset that was opted for was the IRIS dataset as this standard dataset does not require any pre-processing to save on time.
+5. A small technical report giving a brief overview of the implemented algorithms has also been added.

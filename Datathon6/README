@@ -1,0 +1,12 @@
+Submission Version : Final Submission 
+
+This folder contains :
+
+1. Final_Ouputs 		-> Final animated visualizations for spatiotemporal analysis.
+2. Intermediate_Outputs		-> Intermediate images generated for each inference study.
+3. MapData			-> Shapefiles required to generete the visualizations.
+4. Datathon4.csv		-> The Dataset.
+5. Datathon6TechnicalReport.pdf	-> Technical Report for the Datathon.
+6. economic_analysis.py		-> Program that generates the intermediate visualizations.
+7. gifgenerator.py		-> Program that generates the final gif animations.
+8. README			

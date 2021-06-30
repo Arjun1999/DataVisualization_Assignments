@@ -1,0 +1,2349 @@
+source,target,weight
+French Guiana,French Polynesia,1
+French Guiana,Guadeloupe,4
+French Guiana,Martinique,3
+French Guiana,Mayotte,2
+French Guiana,New Caledonia,1
+French Guiana,Reunion,1
+French Guiana,Saint Barthelemy,1
+French Guiana,Saint Pierre and Miquelon,1
+French Guiana,St Martin,2
+French Polynesia,Guadeloupe,4
+French Polynesia,Martinique,3
+French Polynesia,Mayotte,2
+French Polynesia,New Caledonia,1
+French Polynesia,Reunion,1
+French Polynesia,Saint Barthelemy,1
+French Polynesia,Saint Pierre and Miquelon,1
+French Polynesia,St Martin,2
+Guadeloupe,Martinique,5
+Guadeloupe,Mayotte,4
+Guadeloupe,New Caledonia,4
+Guadeloupe,Reunion,4
+Guadeloupe,Saint Barthelemy,4
+Guadeloupe,Saint Pierre and Miquelon,4
+Guadeloupe,St Martin,4
+Martinique,Mayotte,4
+Martinique,New Caledonia,3
+Martinique,Reunion,3
+Martinique,Saint Barthelemy,3
+Martinique,Saint Pierre and Miquelon,3
+Martinique,St Martin,4
+Mayotte,New Caledonia,2
+Mayotte,Reunion,2
+Mayotte,Saint Barthelemy,2
+Mayotte,Saint Pierre and Miquelon,2
+Mayotte,St Martin,3
+New Caledonia,Reunion,1
+New Caledonia,Saint Barthelemy,1
+New Caledonia,Saint Pierre and Miquelon,1
+New Caledonia,St Martin,2
+Reunion,Saint Barthelemy,1
+Reunion,Saint Pierre and Miquelon,1
+Reunion,St Martin,2
+Saint Barthelemy,Saint Pierre and Miquelon,1
+Saint Barthelemy,St Martin,2
+Saint Pierre and Miquelon,St Martin,2
+Aruba,Bonaire,1
+Aruba,Curacao,1
+Aruba,Sint Maarten,3
+Bonaire,Curacao,1
+Bonaire,Sint Maarten,3
+Curacao,Sint Maarten,3
+Australian Capital Territory,New South Wales,5
+Australian Capital Territory,Northern Territory,2
+Australian Capital Territory,Queensland,3
+Australian Capital Territory,South Australia,3
+Australian Capital Territory,Tasmania,3
+Australian Capital Territory,Victoria,5
+Australian Capital Territory,Western Australia,4
+New South Wales,Northern Territory,5
+New South Wales,Queensland,5
+New South Wales,South Australia,5
+New South Wales,Tasmania,5
+New South Wales,Victoria,6
+New South Wales,Western Australia,6
+Northern Territory,Queensland,3
+Northern Territory,South Australia,2
+Northern Territory,Tasmania,2
+Northern Territory,Victoria,4
+Northern Territory,Western Australia,3
+Queensland,South Australia,3
+Queensland,Tasmania,3
+Queensland,Victoria,5
+Queensland,Western Australia,4
+South Australia,Tasmania,3
+South Australia,Victoria,5
+South Australia,Western Australia,4
+Tasmania,Victoria,5
+Tasmania,Western Australia,4
+Victoria,Western Australia,5
+Alberta,British Columbia,7
+Alberta,Diamond Princess cruise ship,6
+Alberta,Grand Princess,6
+Alberta,Manitoba,6
+Alberta,New Brunswick,6
+Alberta,Newfoundland and Labrador,6
+Alberta,Northwest Territories,6
+Alberta,Nova Scotia,6
+Alberta,Ontario,11
+Alberta,Prince Edward Island,6
+Alberta,Quebec,11
+Alberta,Recovered,6
+Alberta,Saskatchewan,6
+Alberta,Yukon,6
+British Columbia,Diamond Princess cruise ship,7
+British Columbia,Grand Princess,7
+British Columbia,Manitoba,7
+British Columbia,New Brunswick,7
+British Columbia,Newfoundland and Labrador,7
+British Columbia,Northwest Territories,7
+British Columbia,Nova Scotia,7
+British Columbia,Ontario,11
+British Columbia,Prince Edward Island,7
+British Columbia,Quebec,11
+British Columbia,Recovered,7
+British Columbia,Saskatchewan,7
+British Columbia,Yukon,7
+Diamond Princess cruise ship,Grand Princess,2
+Diamond Princess cruise ship,Manitoba,2
+Diamond Princess cruise ship,New Brunswick,1
+Diamond Princess cruise ship,Newfoundland and Labrador,2
+Diamond Princess cruise ship,Northwest Territories,1
+Diamond Princess cruise ship,Nova Scotia,1
+Diamond Princess cruise ship,Ontario,10
+Diamond Princess cruise ship,Prince Edward Island,1
+Diamond Princess cruise ship,Quebec,10
+Diamond Princess cruise ship,Recovered,1
+Diamond Princess cruise ship,Saskatchewan,2
+Diamond Princess cruise ship,Yukon,1
+Grand Princess,Manitoba,3
+Grand Princess,New Brunswick,2
+Grand Princess,Newfoundland and Labrador,3
+Grand Princess,Northwest Territories,2
+Grand Princess,Nova Scotia,3
+Grand Princess,Ontario,10
+Grand Princess,Prince Edward Island,2
+Grand Princess,Quebec,11
+Grand Princess,Recovered,2
+Grand Princess,Saskatchewan,3
+Grand Princess,Yukon,2
+Manitoba,New Brunswick,2
+Manitoba,Newfoundland and Labrador,3
+Manitoba,Northwest Territories,2
+Manitoba,Nova Scotia,3
+Manitoba,Ontario,10
+Manitoba,Prince Edward Island,2
+Manitoba,Quebec,11
+Manitoba,Recovered,2
+Manitoba,Saskatchewan,3
+Manitoba,Yukon,2
+New Brunswick,Newfoundland and Labrador,2
+New Brunswick,Northwest Territories,1
+New Brunswick,Nova Scotia,1
+New Brunswick,Ontario,10
+New Brunswick,Prince Edward Island,1
+New Brunswick,Quebec,10
+New Brunswick,Recovered,1
+New Brunswick,Saskatchewan,2
+New Brunswick,Yukon,1
+Newfoundland and Labrador,Northwest Territories,2
+Newfoundland and Labrador,Nova Scotia,2
+Newfoundland and Labrador,Ontario,10
+Newfoundland and Labrador,Prince Edward Island,2
+Newfoundland and Labrador,Quebec,11
+Newfoundland and Labrador,Recovered,2
+Newfoundland and Labrador,Saskatchewan,3
+Newfoundland and Labrador,Yukon,2
+Northwest Territories,Nova Scotia,1
+Northwest Territories,Ontario,10
+Northwest Territories,Prince Edward Island,1
+Northwest Territories,Quebec,10
+Northwest Territories,Recovered,1
+Northwest Territories,Saskatchewan,2
+Northwest Territories,Yukon,1
+Nova Scotia,Ontario,10
+Nova Scotia,Prince Edward Island,1
+Nova Scotia,Quebec,10
+Nova Scotia,Recovered,1
+Nova Scotia,Saskatchewan,3
+Nova Scotia,Yukon,1
+Ontario,Prince Edward Island,10
+Ontario,Quebec,12
+Ontario,Recovered,10
+Ontario,Saskatchewan,10
+Ontario,Yukon,10
+Prince Edward Island,Quebec,10
+Prince Edward Island,Recovered,1
+Prince Edward Island,Saskatchewan,2
+Prince Edward Island,Yukon,1
+Quebec,Recovered,10
+Quebec,Saskatchewan,11
+Quebec,Yukon,10
+Recovered,Saskatchewan,2
+Recovered,Yukon,1
+Saskatchewan,Yukon,2
+Alabama,Alaska,7
+Alabama,Arizona,10
+Alabama,Arkansas,8
+Alabama,California,14
+Alabama,Colorado,11
+Alabama,Connecticut,12
+Alabama,Delaware,8
+Alabama,Diamond Princess cruise ship,7
+Alabama,District of Columbia,8
+Alabama,Florida,12
+Alabama,Georgia,12
+Alabama,Grand Princess,7
+Alabama,Guam,7
+Alabama,Hawaii,7
+Alabama,Idaho,8
+Alabama,Illinois,13
+Alabama,Indiana,11
+Alabama,Iowa,8
+Alabama,Kansas,9
+Alabama,Kentucky,9
+Alabama,Louisiana,14
+Alabama,Maine,8
+Alabama,Maryland,10
+Alabama,Massachusetts,13
+Alabama,Michigan,14
+Alabama,Minnesota,9
+Alabama,Mississippi,10
+Alabama,Missouri,10
+Alabama,Montana,7
+Alabama,Nebraska,8
+Alabama,Nevada,10
+Alabama,New Hampshire,8
+Alabama,New Jersey,15
+Alabama,New Mexico,8
+Alabama,New York,15
+Alabama,North Carolina,10
+Alabama,North Dakota,7
+Alabama,Northern Mariana Islands,7
+Alabama,Ohio,11
+Alabama,Oklahoma,10
+Alabama,Oregon,9
+Alabama,Pennsylvania,12
+Alabama,Puerto Rico,8
+Alabama,Recovered,7
+Alabama,Rhode Island,9
+Alabama,South Carolina,9
+Alabama,South Dakota,7
+Alabama,Tennessee,10
+Alabama,Texas,11
+Alabama,Utah,8
+Alabama,Vermont,8
+Alabama,Virgin Islands,7
+Alabama,Virginia,10
+Alabama,Washington,13
+Alabama,West Virginia,7
+Alabama,Wisconsin,10
+Alabama,Wyoming,7
+Alaska,Arizona,8
+Alaska,Arkansas,6
+Alaska,California,13
+Alaska,Colorado,10
+Alaska,Connecticut,12
+Alaska,Delaware,6
+Alaska,Diamond Princess cruise ship,3
+Alaska,District of Columbia,6
+Alaska,Florida,12
+Alaska,Georgia,12
+Alaska,Grand Princess,4
+Alaska,Guam,4
+Alaska,Hawaii,4
+Alaska,Idaho,5
+Alaska,Illinois,13
+Alaska,Indiana,11
+Alaska,Iowa,6
+Alaska,Kansas,7
+Alaska,Kentucky,8
+Alaska,Louisiana,14
+Alaska,Maine,5
+Alaska,Maryland,9
+Alaska,Massachusetts,13
+Alaska,Michigan,14
+Alaska,Minnesota,7
+Alaska,Mississippi,8
+Alaska,Missouri,8
+Alaska,Montana,4
+Alaska,Nebraska,5
+Alaska,Nevada,8
+Alaska,New Hampshire,6
+Alaska,New Jersey,15
+Alaska,New Mexico,5
+Alaska,New York,15
+Alaska,North Carolina,8
+Alaska,North Dakota,4
+Alaska,Northern Mariana Islands,4
+Alaska,Ohio,11
+Alaska,Oklahoma,8
+Alaska,Oregon,7
+Alaska,Pennsylvania,11
+Alaska,Puerto Rico,6
+Alaska,Recovered,3
+Alaska,Rhode Island,7
+Alaska,South Carolina,7
+Alaska,South Dakota,4
+Alaska,Tennessee,8
+Alaska,Texas,10
+Alaska,Utah,5
+Alaska,Vermont,6
+Alaska,Virgin Islands,4
+Alaska,Virginia,9
+Alaska,Washington,12
+Alaska,West Virginia,4
+Alaska,Wisconsin,9
+Alaska,Wyoming,3
+Arizona,Arkansas,9
+Arizona,California,14
+Arizona,Colorado,11
+Arizona,Connecticut,13
+Arizona,Delaware,9
+Arizona,Diamond Princess cruise ship,8
+Arizona,District of Columbia,9
+Arizona,Florida,12
+Arizona,Georgia,13
+Arizona,Grand Princess,8
+Arizona,Guam,8
+Arizona,Hawaii,8
+Arizona,Idaho,9
+Arizona,Illinois,13
+Arizona,Indiana,11
+Arizona,Iowa,9
+Arizona,Kansas,9
+Arizona,Kentucky,10
+Arizona,Louisiana,14
+Arizona,Maine,9
+Arizona,Maryland,11
+Arizona,Massachusetts,13
+Arizona,Michigan,15
+Arizona,Minnesota,9
+Arizona,Mississippi,10
+Arizona,Missouri,10
+Arizona,Montana,8
+Arizona,Nebraska,8
+Arizona,Nevada,10
+Arizona,New Hampshire,9
+Arizona,New Jersey,15
+Arizona,New Mexico,9
+Arizona,New York,15
+Arizona,North Carolina,10
+Arizona,North Dakota,8
+Arizona,Northern Mariana Islands,8
+Arizona,Ohio,11
+Arizona,Oklahoma,10
+Arizona,Oregon,9
+Arizona,Pennsylvania,12
+Arizona,Puerto Rico,9
+Arizona,Recovered,8
+Arizona,Rhode Island,9
+Arizona,South Carolina,10
+Arizona,South Dakota,8
+Arizona,Tennessee,10
+Arizona,Texas,11
+Arizona,Utah,8
+Arizona,Vermont,9
+Arizona,Virgin Islands,8
+Arizona,Virginia,10
+Arizona,Washington,13
+Arizona,West Virginia,8
+Arizona,Wisconsin,10
+Arizona,Wyoming,8
+Arkansas,California,13
+Arkansas,Colorado,10
+Arkansas,Connecticut,12
+Arkansas,Delaware,6
+Arkansas,Diamond Princess cruise ship,5
+Arkansas,District of Columbia,7
+Arkansas,Florida,12
+Arkansas,Georgia,12
+Arkansas,Grand Princess,5
+Arkansas,Guam,5
+Arkansas,Hawaii,6
+Arkansas,Idaho,6
+Arkansas,Illinois,13
+Arkansas,Indiana,11
+Arkansas,Iowa,7
+Arkansas,Kansas,7
+Arkansas,Kentucky,8
+Arkansas,Louisiana,14
+Arkansas,Maine,6
+Arkansas,Maryland,10
+Arkansas,Massachusetts,13
+Arkansas,Michigan,14
+Arkansas,Minnesota,7
+Arkansas,Mississippi,8
+Arkansas,Missouri,9
+Arkansas,Montana,6
+Arkansas,Nebraska,6
+Arkansas,Nevada,8
+Arkansas,New Hampshire,6
+Arkansas,New Jersey,15
+Arkansas,New Mexico,6
+Arkansas,New York,15
+Arkansas,North Carolina,8
+Arkansas,North Dakota,6
+Arkansas,Northern Mariana Islands,5
+Arkansas,Ohio,11
+Arkansas,Oklahoma,8
+Arkansas,Oregon,7
+Arkansas,Pennsylvania,12
+Arkansas,Puerto Rico,7
+Arkansas,Recovered,5
+Arkansas,Rhode Island,7
+Arkansas,South Carolina,8
+Arkansas,South Dakota,6
+Arkansas,Tennessee,9
+Arkansas,Texas,11
+Arkansas,Utah,6
+Arkansas,Vermont,6
+Arkansas,Virgin Islands,5
+Arkansas,Virginia,9
+Arkansas,Washington,13
+Arkansas,West Virginia,6
+Arkansas,Wisconsin,9
+Arkansas,Wyoming,5
+California,Colorado,14
+California,Connecticut,14
+California,Delaware,13
+California,Diamond Princess cruise ship,13
+California,District of Columbia,13
+California,Florida,14
+California,Georgia,14
+California,Grand Princess,13
+California,Guam,13
+California,Hawaii,13
+California,Idaho,13
+California,Illinois,14
+California,Indiana,14
+California,Iowa,13
+California,Kansas,13
+California,Kentucky,14
+California,Louisiana,15
+California,Maine,13
+California,Maryland,14
+California,Massachusetts,14
+California,Michigan,15
+California,Minnesota,14
+California,Mississippi,14
+California,Missouri,14
+California,Montana,13
+California,Nebraska,13
+California,Nevada,14
+California,New Hampshire,13
+California,New Jersey,15
+California,New Mexico,13
+California,New York,15
+California,North Carolina,14
+California,North Dakota,13
+California,Northern Mariana Islands,13
+California,Ohio,14
+California,Oklahoma,14
+California,Oregon,13
+California,Pennsylvania,14
+California,Puerto Rico,13
+California,Recovered,13
+California,Rhode Island,13
+California,South Carolina,14
+California,South Dakota,13
+California,Tennessee,14
+California,Texas,14
+California,Utah,13
+California,Vermont,13
+California,Virgin Islands,13
+California,Virginia,14
+California,Washington,14
+California,West Virginia,13
+California,Wisconsin,14
+California,Wyoming,13
+Colorado,Connecticut,13
+Colorado,Delaware,10
+Colorado,Diamond Princess cruise ship,10
+Colorado,District of Columbia,11
+Colorado,Florida,13
+Colorado,Georgia,13
+Colorado,Grand Princess,10
+Colorado,Guam,10
+Colorado,Hawaii,10
+Colorado,Idaho,10
+Colorado,Illinois,14
+Colorado,Indiana,12
+Colorado,Iowa,11
+Colorado,Kansas,11
+Colorado,Kentucky,11
+Colorado,Louisiana,14
+Colorado,Maine,10
+Colorado,Maryland,11
+Colorado,Massachusetts,14
+Colorado,Michigan,15
+Colorado,Minnesota,11
+Colorado,Mississippi,11
+Colorado,Missouri,11
+Colorado,Montana,10
+Colorado,Nebraska,10
+Colorado,Nevada,11
+Colorado,New Hampshire,10
+Colorado,New Jersey,15
+Colorado,New Mexico,10
+Colorado,New York,15
+Colorado,North Carolina,11
+Colorado,North Dakota,10
+Colorado,Northern Mariana Islands,10
+Colorado,Ohio,12
+Colorado,Oklahoma,11
+Colorado,Oregon,11
+Colorado,Pennsylvania,13
+Colorado,Puerto Rico,11
+Colorado,Recovered,10
+Colorado,Rhode Island,11
+Colorado,South Carolina,11
+Colorado,South Dakota,10
+Colorado,Tennessee,11
+Colorado,Texas,12
+Colorado,Utah,10
+Colorado,Vermont,10
+Colorado,Virgin Islands,10
+Colorado,Virginia,11
+Colorado,Washington,14
+Colorado,West Virginia,10
+Colorado,Wisconsin,11
+Colorado,Wyoming,10
+Connecticut,Delaware,12
+Connecticut,Diamond Princess cruise ship,12
+Connecticut,District of Columbia,12
+Connecticut,Florida,14
+Connecticut,Georgia,14
+Connecticut,Grand Princess,12
+Connecticut,Guam,12
+Connecticut,Hawaii,12
+Connecticut,Idaho,12
+Connecticut,Illinois,14
+Connecticut,Indiana,14
+Connecticut,Iowa,12
+Connecticut,Kansas,12
+Connecticut,Kentucky,12
+Connecticut,Louisiana,14
+Connecticut,Maine,12
+Connecticut,Maryland,13
+Connecticut,Massachusetts,14
+Connecticut,Michigan,15
+Connecticut,Minnesota,12
+Connecticut,Mississippi,12
+Connecticut,Missouri,13
+Connecticut,Montana,12
+Connecticut,Nebraska,12
+Connecticut,Nevada,12
+Connecticut,New Hampshire,12
+Connecticut,New Jersey,15
+Connecticut,New Mexico,12
+Connecticut,New York,15
+Connecticut,North Carolina,12
+Connecticut,North Dakota,12
+Connecticut,Northern Mariana Islands,12
+Connecticut,Ohio,13
+Connecticut,Oklahoma,12
+Connecticut,Oregon,12
+Connecticut,Pennsylvania,14
+Connecticut,Puerto Rico,12
+Connecticut,Recovered,12
+Connecticut,Rhode Island,12
+Connecticut,South Carolina,12
+Connecticut,South Dakota,12
+Connecticut,Tennessee,13
+Connecticut,Texas,13
+Connecticut,Utah,12
+Connecticut,Vermont,12
+Connecticut,Virgin Islands,12
+Connecticut,Virginia,13
+Connecticut,Washington,14
+Connecticut,West Virginia,12
+Connecticut,Wisconsin,13
+Connecticut,Wyoming,12
+Delaware,Diamond Princess cruise ship,5
+Delaware,District of Columbia,7
+Delaware,Florida,12
+Delaware,Georgia,12
+Delaware,Grand Princess,6
+Delaware,Guam,6
+Delaware,Hawaii,6
+Delaware,Idaho,6
+Delaware,Illinois,13
+Delaware,Indiana,11
+Delaware,Iowa,7
+Delaware,Kansas,7
+Delaware,Kentucky,8
+Delaware,Louisiana,14
+Delaware,Maine,6
+Delaware,Maryland,10
+Delaware,Massachusetts,13
+Delaware,Michigan,14
+Delaware,Minnesota,7
+Delaware,Mississippi,8
+Delaware,Missouri,9
+Delaware,Montana,6
+Delaware,Nebraska,6
+Delaware,Nevada,9
+Delaware,New Hampshire,6
+Delaware,New Jersey,15
+Delaware,New Mexico,6
+Delaware,New York,15
+Delaware,North Carolina,8
+Delaware,North Dakota,6
+Delaware,Northern Mariana Islands,5
+Delaware,Ohio,11
+Delaware,Oklahoma,8
+Delaware,Oregon,7
+Delaware,Pennsylvania,12
+Delaware,Puerto Rico,7
+Delaware,Recovered,5
+Delaware,Rhode Island,7
+Delaware,South Carolina,8
+Delaware,South Dakota,6
+Delaware,Tennessee,9
+Delaware,Texas,11
+Delaware,Utah,6
+Delaware,Vermont,6
+Delaware,Virgin Islands,5
+Delaware,Virginia,9
+Delaware,Washington,13
+Delaware,West Virginia,6
+Delaware,Wisconsin,9
+Delaware,Wyoming,5
+Diamond Princess cruise ship,District of Columbia,6
+Diamond Princess cruise ship,Florida,11
+Diamond Princess cruise ship,Georgia,12
+Diamond Princess cruise ship,Grand Princess,2
+Diamond Princess cruise ship,Guam,3
+Diamond Princess cruise ship,Hawaii,3
+Diamond Princess cruise ship,Idaho,5
+Diamond Princess cruise ship,Illinois,12
+Diamond Princess cruise ship,Indiana,11
+Diamond Princess cruise ship,Iowa,6
+Diamond Princess cruise ship,Kansas,6
+Diamond Princess cruise ship,Kentucky,7
+Diamond Princess cruise ship,Louisiana,14
+Diamond Princess cruise ship,Maine,5
+Diamond Princess cruise ship,Maryland,9
+Diamond Princess cruise ship,Massachusetts,13
+Diamond Princess cruise ship,Michigan,14
+Diamond Princess cruise ship,Minnesota,7
+Diamond Princess cruise ship,Mississippi,7
+Diamond Princess cruise ship,Missouri,8
+Diamond Princess cruise ship,Montana,3
+Diamond Princess cruise ship,Nebraska,5
+Diamond Princess cruise ship,Nevada,8
+Diamond Princess cruise ship,New Hampshire,5
+Diamond Princess cruise ship,New Jersey,15
+Diamond Princess cruise ship,New Mexico,5
+Diamond Princess cruise ship,New York,15
+Diamond Princess cruise ship,North Carolina,7
+Diamond Princess cruise ship,North Dakota,3
+Diamond Princess cruise ship,Northern Mariana Islands,2
+Diamond Princess cruise ship,Ohio,10
+Diamond Princess cruise ship,Oklahoma,8
+Diamond Princess cruise ship,Oregon,6
+Diamond Princess cruise ship,Pennsylvania,11
+Diamond Princess cruise ship,Puerto Rico,6
+Diamond Princess cruise ship,Recovered,1
+Diamond Princess cruise ship,Rhode Island,6
+Diamond Princess cruise ship,South Carolina,7
+Diamond Princess cruise ship,South Dakota,3
+Diamond Princess cruise ship,Tennessee,8
+Diamond Princess cruise ship,Texas,10
+Diamond Princess cruise ship,Utah,4
+Diamond Princess cruise ship,Vermont,5
+Diamond Princess cruise ship,Virgin Islands,1
+Diamond Princess cruise ship,Virginia,9
+Diamond Princess cruise ship,Washington,12
+Diamond Princess cruise ship,West Virginia,3
+Diamond Princess cruise ship,Wisconsin,9
+Diamond Princess cruise ship,Wyoming,1
+District of Columbia,Florida,12
+District of Columbia,Georgia,12
+District of Columbia,Grand Princess,6
+District of Columbia,Guam,6
+District of Columbia,Hawaii,6
+District of Columbia,Idaho,7
+District of Columbia,Illinois,13
+District of Columbia,Indiana,11
+District of Columbia,Iowa,7
+District of Columbia,Kansas,7
+District of Columbia,Kentucky,9
+District of Columbia,Louisiana,14
+District of Columbia,Maine,7
+District of Columbia,Maryland,10
+District of Columbia,Massachusetts,13
+District of Columbia,Michigan,14
+District of Columbia,Minnesota,8
+District of Columbia,Mississippi,9
+District of Columbia,Missouri,9
+District of Columbia,Montana,6
+District of Columbia,Nebraska,6
+District of Columbia,Nevada,9
+District of Columbia,New Hampshire,7
+District of Columbia,New Jersey,15
+District of Columbia,New Mexico,7
+District of Columbia,New York,15
+District of Columbia,North Carolina,9
+District of Columbia,North Dakota,6
+District of Columbia,Northern Mariana Islands,6
+District of Columbia,Ohio,11
+District of Columbia,Oklahoma,9
+District of Columbia,Oregon,7
+District of Columbia,Pennsylvania,12
+District of Columbia,Puerto Rico,7
+District of Columbia,Recovered,6
+District of Columbia,Rhode Island,7
+District of Columbia,South Carolina,8
+District of Columbia,South Dakota,6
+District of Columbia,Tennessee,9
+District of Columbia,Texas,11
+District of Columbia,Utah,6
+District of Columbia,Vermont,7
+District of Columbia,Virgin Islands,6
+District of Columbia,Virginia,9
+District of Columbia,Washington,13
+District of Columbia,West Virginia,6
+District of Columbia,Wisconsin,9
+District of Columbia,Wyoming,6
+Florida,Georgia,14
+Florida,Grand Princess,11
+Florida,Guam,11
+Florida,Hawaii,12
+Florida,Idaho,12
+Florida,Illinois,14
+Florida,Indiana,14
+Florida,Iowa,12
+Florida,Kansas,12
+Florida,Kentucky,12
+Florida,Louisiana,14
+Florida,Maine,12
+Florida,Maryland,13
+Florida,Massachusetts,14
+Florida,Michigan,15
+Florida,Minnesota,12
+Florida,Mississippi,12
+Florida,Missouri,12
+Florida,Montana,12
+Florida,Nebraska,12
+Florida,Nevada,12
+Florida,New Hampshire,12
+Florida,New Jersey,15
+Florida,New Mexico,12
+Florida,New York,15
+Florida,North Carolina,12
+Florida,North Dakota,11
+Florida,Northern Mariana Islands,11
+Florida,Ohio,13
+Florida,Oklahoma,12
+Florida,Oregon,12
+Florida,Pennsylvania,14
+Florida,Puerto Rico,12
+Florida,Recovered,11
+Florida,Rhode Island,12
+Florida,South Carolina,12
+Florida,South Dakota,12
+Florida,Tennessee,12
+Florida,Texas,13
+Florida,Utah,12
+Florida,Vermont,12
+Florida,Virgin Islands,11
+Florida,Virginia,12
+Florida,Washington,14
+Florida,West Virginia,11
+Florida,Wisconsin,13
+Florida,Wyoming,11
+Georgia,Grand Princess,12
+Georgia,Guam,12
+Georgia,Hawaii,12
+Georgia,Idaho,12
+Georgia,Illinois,14
+Georgia,Indiana,14
+Georgia,Iowa,12
+Georgia,Kansas,12
+Georgia,Kentucky,12
+Georgia,Louisiana,14
+Georgia,Maine,12
+Georgia,Maryland,13
+Georgia,Massachusetts,14
+Georgia,Michigan,15
+Georgia,Minnesota,12
+Georgia,Mississippi,12
+Georgia,Missouri,13
+Georgia,Montana,12
+Georgia,Nebraska,12
+Georgia,Nevada,12
+Georgia,New Hampshire,12
+Georgia,New Jersey,15
+Georgia,New Mexico,12
+Georgia,New York,15
+Georgia,North Carolina,12
+Georgia,North Dakota,12
+Georgia,Northern Mariana Islands,12
+Georgia,Ohio,13
+Georgia,Oklahoma,12
+Georgia,Oregon,12
+Georgia,Pennsylvania,14
+Georgia,Puerto Rico,12
+Georgia,Recovered,12
+Georgia,Rhode Island,12
+Georgia,South Carolina,12
+Georgia,South Dakota,12
+Georgia,Tennessee,13
+Georgia,Texas,13
+Georgia,Utah,12
+Georgia,Vermont,12
+Georgia,Virgin Islands,12
+Georgia,Virginia,13
+Georgia,Washington,14
+Georgia,West Virginia,12
+Georgia,Wisconsin,13
+Georgia,Wyoming,12
+Grand Princess,Guam,3
+Grand Princess,Hawaii,4
+Grand Princess,Idaho,5
+Grand Princess,Illinois,13
+Grand Princess,Indiana,11
+Grand Princess,Iowa,6
+Grand Princess,Kansas,6
+Grand Princess,Kentucky,7
+Grand Princess,Louisiana,14
+Grand Princess,Maine,5
+Grand Princess,Maryland,9
+Grand Princess,Massachusetts,13
+Grand Princess,Michigan,14
+Grand Princess,Minnesota,7
+Grand Princess,Mississippi,7
+Grand Princess,Missouri,8
+Grand Princess,Montana,4
+Grand Princess,Nebraska,5
+Grand Princess,Nevada,8
+Grand Princess,New Hampshire,5
+Grand Princess,New Jersey,15
+Grand Princess,New Mexico,5
+Grand Princess,New York,15
+Grand Princess,North Carolina,7
+Grand Princess,North Dakota,4
+Grand Princess,Northern Mariana Islands,3
+Grand Princess,Ohio,10
+Grand Princess,Oklahoma,8
+Grand Princess,Oregon,6
+Grand Princess,Pennsylvania,11
+Grand Princess,Puerto Rico,6
+Grand Princess,Recovered,2
+Grand Princess,Rhode Island,6
+Grand Princess,South Carolina,7
+Grand Princess,South Dakota,4
+Grand Princess,Tennessee,8
+Grand Princess,Texas,10
+Grand Princess,Utah,5
+Grand Princess,Vermont,6
+Grand Princess,Virgin Islands,3
+Grand Princess,Virginia,9
+Grand Princess,Washington,12
+Grand Princess,West Virginia,4
+Grand Princess,Wisconsin,9
+Grand Princess,Wyoming,2
+Guam,Hawaii,4
+Guam,Idaho,5
+Guam,Illinois,13
+Guam,Indiana,11
+Guam,Iowa,6
+Guam,Kansas,6
+Guam,Kentucky,7
+Guam,Louisiana,14
+Guam,Maine,5
+Guam,Maryland,9
+Guam,Massachusetts,13
+Guam,Michigan,14
+Guam,Minnesota,7
+Guam,Mississippi,8
+Guam,Missouri,8
+Guam,Montana,4
+Guam,Nebraska,5
+Guam,Nevada,8
+Guam,New Hampshire,5
+Guam,New Jersey,15
+Guam,New Mexico,5
+Guam,New York,15
+Guam,North Carolina,8
+Guam,North Dakota,4
+Guam,Northern Mariana Islands,3
+Guam,Ohio,10
+Guam,Oklahoma,8
+Guam,Oregon,7
+Guam,Pennsylvania,11
+Guam,Puerto Rico,6
+Guam,Recovered,3
+Guam,Rhode Island,6
+Guam,South Carolina,7
+Guam,South Dakota,4
+Guam,Tennessee,8
+Guam,Texas,10
+Guam,Utah,5
+Guam,Vermont,6
+Guam,Virgin Islands,3
+Guam,Virginia,9
+Guam,Washington,12
+Guam,West Virginia,4
+Guam,Wisconsin,9
+Guam,Wyoming,3
+Hawaii,Idaho,5
+Hawaii,Illinois,13
+Hawaii,Indiana,11
+Hawaii,Iowa,6
+Hawaii,Kansas,7
+Hawaii,Kentucky,7
+Hawaii,Louisiana,14
+Hawaii,Maine,5
+Hawaii,Maryland,9
+Hawaii,Massachusetts,13
+Hawaii,Michigan,14
+Hawaii,Minnesota,7
+Hawaii,Mississippi,8
+Hawaii,Missouri,8
+Hawaii,Montana,4
+Hawaii,Nebraska,5
+Hawaii,Nevada,8
+Hawaii,New Hampshire,6
+Hawaii,New Jersey,15
+Hawaii,New Mexico,5
+Hawaii,New York,15
+Hawaii,North Carolina,8
+Hawaii,North Dakota,4
+Hawaii,Northern Mariana Islands,4
+Hawaii,Ohio,11
+Hawaii,Oklahoma,8
+Hawaii,Oregon,7
+Hawaii,Pennsylvania,11
+Hawaii,Puerto Rico,6
+Hawaii,Recovered,3
+Hawaii,Rhode Island,7
+Hawaii,South Carolina,7
+Hawaii,South Dakota,4
+Hawaii,Tennessee,8
+Hawaii,Texas,10
+Hawaii,Utah,5
+Hawaii,Vermont,6
+Hawaii,Virgin Islands,3
+Hawaii,Virginia,9
+Hawaii,Washington,12
+Hawaii,West Virginia,4
+Hawaii,Wisconsin,9
+Hawaii,Wyoming,3
+Idaho,Illinois,13
+Idaho,Indiana,11
+Idaho,Iowa,6
+Idaho,Kansas,7
+Idaho,Kentucky,8
+Idaho,Louisiana,14
+Idaho,Maine,6
+Idaho,Maryland,10
+Idaho,Massachusetts,13
+Idaho,Michigan,14
+Idaho,Minnesota,7
+Idaho,Mississippi,8
+Idaho,Missouri,9
+Idaho,Montana,5
+Idaho,Nebraska,6
+Idaho,Nevada,8
+Idaho,New Hampshire,6
+Idaho,New Jersey,15
+Idaho,New Mexico,6
+Idaho,New York,15
+Idaho,North Carolina,8
+Idaho,North Dakota,5
+Idaho,Northern Mariana Islands,5
+Idaho,Ohio,11
+Idaho,Oklahoma,8
+Idaho,Oregon,7
+Idaho,Pennsylvania,12
+Idaho,Puerto Rico,7
+Idaho,Recovered,5
+Idaho,Rhode Island,7
+Idaho,South Carolina,8
+Idaho,South Dakota,5
+Idaho,Tennessee,9
+Idaho,Texas,11
+Idaho,Utah,6
+Idaho,Vermont,6
+Idaho,Virgin Islands,5
+Idaho,Virginia,9
+Idaho,Washington,13
+Idaho,West Virginia,5
+Idaho,Wisconsin,9
+Idaho,Wyoming,5
+Illinois,Indiana,14
+Illinois,Iowa,13
+Illinois,Kansas,13
+Illinois,Kentucky,13
+Illinois,Louisiana,15
+Illinois,Maine,13
+Illinois,Maryland,14
+Illinois,Massachusetts,14
+Illinois,Michigan,15
+Illinois,Minnesota,13
+Illinois,Mississippi,13
+Illinois,Missouri,13
+Illinois,Montana,13
+Illinois,Nebraska,13
+Illinois,Nevada,13
+Illinois,New Hampshire,13
+Illinois,New Jersey,15
+Illinois,New Mexico,13
+Illinois,New York,15
+Illinois,North Carolina,13
+Illinois,North Dakota,13
+Illinois,Northern Mariana Islands,13
+Illinois,Ohio,14
+Illinois,Oklahoma,13
+Illinois,Oregon,13
+Illinois,Pennsylvania,14
+Illinois,Puerto Rico,13
+Illinois,Recovered,12
+Illinois,Rhode Island,13
+Illinois,South Carolina,13
+Illinois,South Dakota,13
+Illinois,Tennessee,13
+Illinois,Texas,14
+Illinois,Utah,13
+Illinois,Vermont,13
+Illinois,Virgin Islands,12
+Illinois,Virginia,13
+Illinois,Washington,14
+Illinois,West Virginia,13
+Illinois,Wisconsin,13
+Illinois,Wyoming,12
+Indiana,Iowa,11
+Indiana,Kansas,11
+Indiana,Kentucky,11
+Indiana,Louisiana,14
+Indiana,Maine,11
+Indiana,Maryland,12
+Indiana,Massachusetts,14
+Indiana,Michigan,15
+Indiana,Minnesota,11
+Indiana,Mississippi,11
+Indiana,Missouri,11
+Indiana,Montana,11
+Indiana,Nebraska,11
+Indiana,Nevada,11
+Indiana,New Hampshire,11
+Indiana,New Jersey,15
+Indiana,New Mexico,11
+Indiana,New York,15
+Indiana,North Carolina,11
+Indiana,North Dakota,11
+Indiana,Northern Mariana Islands,11
+Indiana,Ohio,12
+Indiana,Oklahoma,11
+Indiana,Oregon,11
+Indiana,Pennsylvania,13
+Indiana,Puerto Rico,11
+Indiana,Recovered,11
+Indiana,Rhode Island,11
+Indiana,South Carolina,11
+Indiana,South Dakota,11
+Indiana,Tennessee,11
+Indiana,Texas,12
+Indiana,Utah,11
+Indiana,Vermont,11
+Indiana,Virgin Islands,11
+Indiana,Virginia,11
+Indiana,Washington,14
+Indiana,West Virginia,11
+Indiana,Wisconsin,11
+Indiana,Wyoming,11
+Iowa,Kansas,7
+Iowa,Kentucky,8
+Iowa,Louisiana,14
+Iowa,Maine,6
+Iowa,Maryland,10
+Iowa,Massachusetts,13
+Iowa,Michigan,14
+Iowa,Minnesota,7
+Iowa,Mississippi,9
+Iowa,Missouri,9
+Iowa,Montana,6
+Iowa,Nebraska,6
+Iowa,Nevada,9
+Iowa,New Hampshire,7
+Iowa,New Jersey,15
+Iowa,New Mexico,6
+Iowa,New York,15
+Iowa,North Carolina,9
+Iowa,North Dakota,6
+Iowa,Northern Mariana Islands,6
+Iowa,Ohio,11
+Iowa,Oklahoma,9
+Iowa,Oregon,7
+Iowa,Pennsylvania,12
+Iowa,Puerto Rico,7
+Iowa,Recovered,6
+Iowa,Rhode Island,7
+Iowa,South Carolina,8
+Iowa,South Dakota,6
+Iowa,Tennessee,9
+Iowa,Texas,11
+Iowa,Utah,6
+Iowa,Vermont,7
+Iowa,Virgin Islands,6
+Iowa,Virginia,9
+Iowa,Washington,13
+Iowa,West Virginia,6
+Iowa,Wisconsin,9
+Iowa,Wyoming,6
+Kansas,Kentucky,9
+Kansas,Louisiana,14
+Kansas,Maine,7
+Kansas,Maryland,10
+Kansas,Massachusetts,13
+Kansas,Michigan,14
+Kansas,Minnesota,8
+Kansas,Mississippi,9
+Kansas,Missouri,9
+Kansas,Montana,7
+Kansas,Nebraska,7
+Kansas,Nevada,9
+Kansas,New Hampshire,7
+Kansas,New Jersey,15
+Kansas,New Mexico,7
+Kansas,New York,15
+Kansas,North Carolina,9
+Kansas,North Dakota,6
+Kansas,Northern Mariana Islands,6
+Kansas,Ohio,11
+Kansas,Oklahoma,9
+Kansas,Oregon,8
+Kansas,Pennsylvania,12
+Kansas,Puerto Rico,7
+Kansas,Recovered,6
+Kansas,Rhode Island,8
+Kansas,South Carolina,9
+Kansas,South Dakota,7
+Kansas,Tennessee,9
+Kansas,Texas,11
+Kansas,Utah,7
+Kansas,Vermont,7
+Kansas,Virgin Islands,6
+Kansas,Virginia,10
+Kansas,Washington,13
+Kansas,West Virginia,6
+Kansas,Wisconsin,10
+Kansas,Wyoming,6
+Kentucky,Louisiana,14
+Kentucky,Maine,8
+Kentucky,Maryland,10
+Kentucky,Massachusetts,13
+Kentucky,Michigan,14
+Kentucky,Minnesota,9
+Kentucky,Mississippi,10
+Kentucky,Missouri,10
+Kentucky,Montana,7
+Kentucky,Nebraska,8
+Kentucky,Nevada,10
+Kentucky,New Hampshire,8
+Kentucky,New Jersey,15
+Kentucky,New Mexico,8
+Kentucky,New York,15
+Kentucky,North Carolina,10
+Kentucky,North Dakota,7
+Kentucky,Northern Mariana Islands,7
+Kentucky,Ohio,11
+Kentucky,Oklahoma,10
+Kentucky,Oregon,9
+Kentucky,Pennsylvania,12
+Kentucky,Puerto Rico,9
+Kentucky,Recovered,7
+Kentucky,Rhode Island,9
+Kentucky,South Carolina,9
+Kentucky,South Dakota,7
+Kentucky,Tennessee,10
+Kentucky,Texas,11
+Kentucky,Utah,8
+Kentucky,Vermont,8
+Kentucky,Virgin Islands,7
+Kentucky,Virginia,10
+Kentucky,Washington,13
+Kentucky,West Virginia,7
+Kentucky,Wisconsin,10
+Kentucky,Wyoming,7
+Louisiana,Maine,14
+Louisiana,Maryland,14
+Louisiana,Massachusetts,15
+Louisiana,Michigan,15
+Louisiana,Minnesota,14
+Louisiana,Mississippi,14
+Louisiana,Missouri,14
+Louisiana,Montana,14
+Louisiana,Nebraska,14
+Louisiana,Nevada,14
+Louisiana,New Hampshire,14
+Louisiana,New Jersey,15
+Louisiana,New Mexico,14
+Louisiana,New York,15
+Louisiana,North Carolina,14
+Louisiana,North Dakota,14
+Louisiana,Northern Mariana Islands,14
+Louisiana,Ohio,14
+Louisiana,Oklahoma,14
+Louisiana,Oregon,14
+Louisiana,Pennsylvania,14
+Louisiana,Puerto Rico,14
+Louisiana,Recovered,14
+Louisiana,Rhode Island,14
+Louisiana,South Carolina,14
+Louisiana,South Dakota,14
+Louisiana,Tennessee,14
+Louisiana,Texas,14
+Louisiana,Utah,14
+Louisiana,Vermont,14
+Louisiana,Virgin Islands,14
+Louisiana,Virginia,14
+Louisiana,Washington,14
+Louisiana,West Virginia,14
+Louisiana,Wisconsin,14
+Louisiana,Wyoming,14
+Maine,Maryland,10
+Maine,Massachusetts,13
+Maine,Michigan,14
+Maine,Minnesota,7
+Maine,Mississippi,8
+Maine,Missouri,9
+Maine,Montana,5
+Maine,Nebraska,6
+Maine,Nevada,8
+Maine,New Hampshire,6
+Maine,New Jersey,15
+Maine,New Mexico,6
+Maine,New York,15
+Maine,North Carolina,8
+Maine,North Dakota,5
+Maine,Northern Mariana Islands,5
+Maine,Ohio,11
+Maine,Oklahoma,8
+Maine,Oregon,7
+Maine,Pennsylvania,12
+Maine,Puerto Rico,7
+Maine,Recovered,5
+Maine,Rhode Island,7
+Maine,South Carolina,8
+Maine,South Dakota,5
+Maine,Tennessee,9
+Maine,Texas,11
+Maine,Utah,6
+Maine,Vermont,6
+Maine,Virgin Islands,5
+Maine,Virginia,9
+Maine,Washington,13
+Maine,West Virginia,5
+Maine,Wisconsin,9
+Maine,Wyoming,5
+Maryland,Massachusetts,14
+Maryland,Michigan,15
+Maryland,Minnesota,10
+Maryland,Mississippi,10
+Maryland,Missouri,11
+Maryland,Montana,9
+Maryland,Nebraska,10
+Maryland,Nevada,11
+Maryland,New Hampshire,10
+Maryland,New Jersey,15
+Maryland,New Mexico,10
+Maryland,New York,15
+Maryland,North Carolina,10
+Maryland,North Dakota,9
+Maryland,Northern Mariana Islands,9
+Maryland,Ohio,11
+Maryland,Oklahoma,11
+Maryland,Oregon,10
+Maryland,Pennsylvania,13
+Maryland,Puerto Rico,10
+Maryland,Recovered,9
+Maryland,Rhode Island,10
+Maryland,South Carolina,10
+Maryland,South Dakota,9
+Maryland,Tennessee,11
+Maryland,Texas,11
+Maryland,Utah,10
+Maryland,Vermont,10
+Maryland,Virgin Islands,9
+Maryland,Virginia,11
+Maryland,Washington,14
+Maryland,West Virginia,9
+Maryland,Wisconsin,11
+Maryland,Wyoming,9
+Massachusetts,Michigan,15
+Massachusetts,Minnesota,13
+Massachusetts,Mississippi,13
+Massachusetts,Missouri,14
+Massachusetts,Montana,13
+Massachusetts,Nebraska,13
+Massachusetts,Nevada,13
+Massachusetts,New Hampshire,13
+Massachusetts,New Jersey,15
+Massachusetts,New Mexico,13
+Massachusetts,New York,15
+Massachusetts,North Carolina,13
+Massachusetts,North Dakota,13
+Massachusetts,Northern Mariana Islands,13
+Massachusetts,Ohio,14
+Massachusetts,Oklahoma,13
+Massachusetts,Oregon,13
+Massachusetts,Pennsylvania,14
+Massachusetts,Puerto Rico,13
+Massachusetts,Recovered,13
+Massachusetts,Rhode Island,13
+Massachusetts,South Carolina,13
+Massachusetts,South Dakota,13
+Massachusetts,Tennessee,14
+Massachusetts,Texas,14
+Massachusetts,Utah,13
+Massachusetts,Vermont,13
+Massachusetts,Virgin Islands,13
+Massachusetts,Virginia,14
+Massachusetts,Washington,14
+Massachusetts,West Virginia,13
+Massachusetts,Wisconsin,14
+Massachusetts,Wyoming,13
+Michigan,Minnesota,14
+Michigan,Mississippi,14
+Michigan,Missouri,15
+Michigan,Montana,14
+Michigan,Nebraska,14
+Michigan,Nevada,14
+Michigan,New Hampshire,14
+Michigan,New Jersey,15
+Michigan,New Mexico,14
+Michigan,New York,15
+Michigan,North Carolina,14
+Michigan,North Dakota,14
+Michigan,Northern Mariana Islands,14
+Michigan,Ohio,15
+Michigan,Oklahoma,14
+Michigan,Oregon,14
+Michigan,Pennsylvania,15
+Michigan,Puerto Rico,14
+Michigan,Recovered,14
+Michigan,Rhode Island,14
+Michigan,South Carolina,14
+Michigan,South Dakota,14
+Michigan,Tennessee,15
+Michigan,Texas,15
+Michigan,Utah,14
+Michigan,Vermont,14
+Michigan,Virgin Islands,14
+Michigan,Virginia,15
+Michigan,Washington,15
+Michigan,West Virginia,14
+Michigan,Wisconsin,15
+Michigan,Wyoming,14
+Minnesota,Mississippi,9
+Minnesota,Missouri,9
+Minnesota,Montana,7
+Minnesota,Nebraska,7
+Minnesota,Nevada,9
+Minnesota,New Hampshire,7
+Minnesota,New Jersey,15
+Minnesota,New Mexico,7
+Minnesota,New York,15
+Minnesota,North Carolina,9
+Minnesota,North Dakota,7
+Minnesota,Northern Mariana Islands,7
+Minnesota,Ohio,11
+Minnesota,Oklahoma,9
+Minnesota,Oregon,8
+Minnesota,Pennsylvania,12
+Minnesota,Puerto Rico,8
+Minnesota,Recovered,7
+Minnesota,Rhode Island,8
+Minnesota,South Carolina,9
+Minnesota,South Dakota,7
+Minnesota,Tennessee,9
+Minnesota,Texas,11
+Minnesota,Utah,7
+Minnesota,Vermont,7
+Minnesota,Virgin Islands,7
+Minnesota,Virginia,10
+Minnesota,Washington,13
+Minnesota,West Virginia,7
+Minnesota,Wisconsin,10
+Minnesota,Wyoming,7
+Mississippi,Missouri,10
+Mississippi,Montana,8
+Mississippi,Nebraska,8
+Mississippi,Nevada,10
+Mississippi,New Hampshire,8
+Mississippi,New Jersey,15
+Mississippi,New Mexico,8
+Mississippi,New York,15
+Mississippi,North Carolina,10
+Mississippi,North Dakota,8
+Mississippi,Northern Mariana Islands,7
+Mississippi,Ohio,11
+Mississippi,Oklahoma,10
+Mississippi,Oregon,9
+Mississippi,Pennsylvania,12
+Mississippi,Puerto Rico,9
+Mississippi,Recovered,7
+Mississippi,Rhode Island,9
+Mississippi,South Carolina,9
+Mississippi,South Dakota,8
+Mississippi,Tennessee,10
+Mississippi,Texas,11
+Mississippi,Utah,8
+Mississippi,Vermont,8
+Mississippi,Virgin Islands,7
+Mississippi,Virginia,10
+Mississippi,Washington,13
+Mississippi,West Virginia,8
+Mississippi,Wisconsin,10
+Mississippi,Wyoming,7
+Missouri,Montana,8
+Missouri,Nebraska,9
+Missouri,Nevada,10
+Missouri,New Hampshire,9
+Missouri,New Jersey,15
+Missouri,New Mexico,9
+Missouri,New York,15
+Missouri,North Carolina,10
+Missouri,North Dakota,8
+Missouri,Northern Mariana Islands,8
+Missouri,Ohio,11
+Missouri,Oklahoma,10
+Missouri,Oregon,9
+Missouri,Pennsylvania,12
+Missouri,Puerto Rico,9
+Missouri,Recovered,8
+Missouri,Rhode Island,9
+Missouri,South Carolina,10
+Missouri,South Dakota,8
+Missouri,Tennessee,10
+Missouri,Texas,11
+Missouri,Utah,9
+Missouri,Vermont,9
+Missouri,Virgin Islands,8
+Missouri,Virginia,10
+Missouri,Washington,13
+Missouri,West Virginia,8
+Missouri,Wisconsin,10
+Missouri,Wyoming,8
+Montana,Nebraska,5
+Montana,Nevada,8
+Montana,New Hampshire,6
+Montana,New Jersey,15
+Montana,New Mexico,5
+Montana,New York,15
+Montana,North Carolina,8
+Montana,North Dakota,4
+Montana,Northern Mariana Islands,4
+Montana,Ohio,11
+Montana,Oklahoma,8
+Montana,Oregon,7
+Montana,Pennsylvania,11
+Montana,Puerto Rico,6
+Montana,Recovered,3
+Montana,Rhode Island,7
+Montana,South Carolina,7
+Montana,South Dakota,4
+Montana,Tennessee,8
+Montana,Texas,10
+Montana,Utah,5
+Montana,Vermont,6
+Montana,Virgin Islands,3
+Montana,Virginia,9
+Montana,Washington,12
+Montana,West Virginia,4
+Montana,Wisconsin,9
+Montana,Wyoming,3
+Nebraska,Nevada,8
+Nebraska,New Hampshire,6
+Nebraska,New Jersey,15
+Nebraska,New Mexico,6
+Nebraska,New York,15
+Nebraska,North Carolina,8
+Nebraska,North Dakota,5
+Nebraska,Northern Mariana Islands,5
+Nebraska,Ohio,11
+Nebraska,Oklahoma,8
+Nebraska,Oregon,7
+Nebraska,Pennsylvania,11
+Nebraska,Puerto Rico,6
+Nebraska,Recovered,5
+Nebraska,Rhode Island,7
+Nebraska,South Carolina,8
+Nebraska,South Dakota,5
+Nebraska,Tennessee,9
+Nebraska,Texas,11
+Nebraska,Utah,6
+Nebraska,Vermont,6
+Nebraska,Virgin Islands,5
+Nebraska,Virginia,9
+Nebraska,Washington,13
+Nebraska,West Virginia,5
+Nebraska,Wisconsin,9
+Nebraska,Wyoming,5
+Nevada,New Hampshire,8
+Nevada,New Jersey,15
+Nevada,New Mexico,8
+Nevada,New York,15
+Nevada,North Carolina,10
+Nevada,North Dakota,8
+Nevada,Northern Mariana Islands,8
+Nevada,Ohio,11
+Nevada,Oklahoma,10
+Nevada,Oregon,9
+Nevada,Pennsylvania,12
+Nevada,Puerto Rico,9
+Nevada,Recovered,8
+Nevada,Rhode Island,9
+Nevada,South Carolina,10
+Nevada,South Dakota,8
+Nevada,Tennessee,10
+Nevada,Texas,11
+Nevada,Utah,8
+Nevada,Vermont,9
+Nevada,Virgin Islands,8
+Nevada,Virginia,10
+Nevada,Washington,13
+Nevada,West Virginia,8
+Nevada,Wisconsin,10
+Nevada,Wyoming,8
+New Hampshire,New Jersey,15
+New Hampshire,New Mexico,6
+New Hampshire,New York,15
+New Hampshire,North Carolina,8
+New Hampshire,North Dakota,6
+New Hampshire,Northern Mariana Islands,5
+New Hampshire,Ohio,11
+New Hampshire,Oklahoma,8
+New Hampshire,Oregon,7
+New Hampshire,Pennsylvania,12
+New Hampshire,Puerto Rico,7
+New Hampshire,Recovered,5
+New Hampshire,Rhode Island,7
+New Hampshire,South Carolina,8
+New Hampshire,South Dakota,6
+New Hampshire,Tennessee,9
+New Hampshire,Texas,11
+New Hampshire,Utah,6
+New Hampshire,Vermont,6
+New Hampshire,Virgin Islands,5
+New Hampshire,Virginia,9
+New Hampshire,Washington,13
+New Hampshire,West Virginia,6
+New Hampshire,Wisconsin,9
+New Hampshire,Wyoming,5
+New Jersey,New Mexico,15
+New Jersey,New York,15
+New Jersey,North Carolina,15
+New Jersey,North Dakota,15
+New Jersey,Northern Mariana Islands,15
+New Jersey,Ohio,15
+New Jersey,Oklahoma,15
+New Jersey,Oregon,15
+New Jersey,Pennsylvania,15
+New Jersey,Puerto Rico,15
+New Jersey,Recovered,15
+New Jersey,Rhode Island,15
+New Jersey,South Carolina,15
+New Jersey,South Dakota,15
+New Jersey,Tennessee,15
+New Jersey,Texas,15
+New Jersey,Utah,15
+New Jersey,Vermont,15
+New Jersey,Virgin Islands,15
+New Jersey,Virginia,15
+New Jersey,Washington,15
+New Jersey,West Virginia,15
+New Jersey,Wisconsin,15
+New Jersey,Wyoming,15
+New Mexico,New York,15
+New Mexico,North Carolina,8
+New Mexico,North Dakota,5
+New Mexico,Northern Mariana Islands,5
+New Mexico,Ohio,11
+New Mexico,Oklahoma,8
+New Mexico,Oregon,7
+New Mexico,Pennsylvania,12
+New Mexico,Puerto Rico,7
+New Mexico,Recovered,5
+New Mexico,Rhode Island,7
+New Mexico,South Carolina,8
+New Mexico,South Dakota,5
+New Mexico,Tennessee,9
+New Mexico,Texas,11
+New Mexico,Utah,6
+New Mexico,Vermont,6
+New Mexico,Virgin Islands,5
+New Mexico,Virginia,9
+New Mexico,Washington,13
+New Mexico,West Virginia,5
+New Mexico,Wisconsin,9
+New Mexico,Wyoming,5
+New York,North Carolina,15
+New York,North Dakota,15
+New York,Northern Mariana Islands,15
+New York,Ohio,15
+New York,Oklahoma,15
+New York,Oregon,15
+New York,Pennsylvania,15
+New York,Puerto Rico,15
+New York,Recovered,15
+New York,Rhode Island,15
+New York,South Carolina,15
+New York,South Dakota,15
+New York,Tennessee,15
+New York,Texas,15
+New York,Utah,15
+New York,Vermont,15
+New York,Virgin Islands,15
+New York,Virginia,15
+New York,Washington,15
+New York,West Virginia,15
+New York,Wisconsin,15
+New York,Wyoming,15
+North Carolina,North Dakota,8
+North Carolina,Northern Mariana Islands,7
+North Carolina,Ohio,11
+North Carolina,Oklahoma,10
+North Carolina,Oregon,9
+North Carolina,Pennsylvania,12
+North Carolina,Puerto Rico,9
+North Carolina,Recovered,7
+North Carolina,Rhode Island,9
+North Carolina,South Carolina,9
+North Carolina,South Dakota,8
+North Carolina,Tennessee,10
+North Carolina,Texas,11
+North Carolina,Utah,8
+North Carolina,Vermont,8
+North Carolina,Virgin Islands,7
+North Carolina,Virginia,10
+North Carolina,Washington,13
+North Carolina,West Virginia,8
+North Carolina,Wisconsin,10
+North Carolina,Wyoming,7
+North Dakota,Northern Mariana Islands,3
+North Dakota,Ohio,11
+North Dakota,Oklahoma,8
+North Dakota,Oregon,7
+North Dakota,Pennsylvania,11
+North Dakota,Puerto Rico,6
+North Dakota,Recovered,3
+North Dakota,Rhode Island,7
+North Dakota,South Carolina,7
+North Dakota,South Dakota,4
+North Dakota,Tennessee,8
+North Dakota,Texas,10
+North Dakota,Utah,5
+North Dakota,Vermont,6
+North Dakota,Virgin Islands,3
+North Dakota,Virginia,9
+North Dakota,Washington,12
+North Dakota,West Virginia,4
+North Dakota,Wisconsin,9
+North Dakota,Wyoming,3
+Northern Mariana Islands,Ohio,10
+Northern Mariana Islands,Oklahoma,8
+Northern Mariana Islands,Oregon,6
+Northern Mariana Islands,Pennsylvania,11
+Northern Mariana Islands,Puerto Rico,6
+Northern Mariana Islands,Recovered,2
+Northern Mariana Islands,Rhode Island,6
+Northern Mariana Islands,South Carolina,7
+Northern Mariana Islands,South Dakota,4
+Northern Mariana Islands,Tennessee,8
+Northern Mariana Islands,Texas,10
+Northern Mariana Islands,Utah,5
+Northern Mariana Islands,Vermont,5
+Northern Mariana Islands,Virgin Islands,2
+Northern Mariana Islands,Virginia,9
+Northern Mariana Islands,Washington,12
+Northern Mariana Islands,West Virginia,3
+Northern Mariana Islands,Wisconsin,9
+Northern Mariana Islands,Wyoming,2
+Ohio,Oklahoma,11
+Ohio,Oregon,11
+Ohio,Pennsylvania,13
+Ohio,Puerto Rico,11
+Ohio,Recovered,10
+Ohio,Rhode Island,11
+Ohio,South Carolina,11
+Ohio,South Dakota,11
+Ohio,Tennessee,11
+Ohio,Texas,12
+Ohio,Utah,11
+Ohio,Vermont,11
+Ohio,Virgin Islands,10
+Ohio,Virginia,11
+Ohio,Washington,14
+Ohio,West Virginia,11
+Ohio,Wisconsin,11
+Ohio,Wyoming,10
+Oklahoma,Oregon,9
+Oklahoma,Pennsylvania,12
+Oklahoma,Puerto Rico,9
+Oklahoma,Recovered,8
+Oklahoma,Rhode Island,9
+Oklahoma,South Carolina,10
+Oklahoma,South Dakota,8
+Oklahoma,Tennessee,10
+Oklahoma,Texas,11
+Oklahoma,Utah,8
+Oklahoma,Vermont,8
+Oklahoma,Virgin Islands,8
+Oklahoma,Virginia,10
+Oklahoma,Washington,13
+Oklahoma,West Virginia,8
+Oklahoma,Wisconsin,10
+Oklahoma,Wyoming,8
+Oregon,Pennsylvania,12
+Oregon,Puerto Rico,7
+Oregon,Recovered,6
+Oregon,Rhode Island,8
+Oregon,South Carolina,9
+Oregon,South Dakota,7
+Oregon,Tennessee,9
+Oregon,Texas,11
+Oregon,Utah,7
+Oregon,Vermont,7
+Oregon,Virgin Islands,6
+Oregon,Virginia,10
+Oregon,Washington,13
+Oregon,West Virginia,7
+Oregon,Wisconsin,10
+Oregon,Wyoming,6
+Pennsylvania,Puerto Rico,12
+Pennsylvania,Recovered,11
+Pennsylvania,Rhode Island,12
+Pennsylvania,South Carolina,12
+Pennsylvania,South Dakota,11
+Pennsylvania,Tennessee,12
+Pennsylvania,Texas,13
+Pennsylvania,Utah,11
+Pennsylvania,Vermont,12
+Pennsylvania,Virgin Islands,11
+Pennsylvania,Virginia,12
+Pennsylvania,Washington,14
+Pennsylvania,West Virginia,11
+Pennsylvania,Wisconsin,12
+Pennsylvania,Wyoming,11
+Puerto Rico,Recovered,6
+Puerto Rico,Rhode Island,7
+Puerto Rico,South Carolina,8
+Puerto Rico,South Dakota,6
+Puerto Rico,Tennessee,9
+Puerto Rico,Texas,11
+Puerto Rico,Utah,6
+Puerto Rico,Vermont,7
+Puerto Rico,Virgin Islands,6
+Puerto Rico,Virginia,9
+Puerto Rico,Washington,13
+Puerto Rico,West Virginia,6
+Puerto Rico,Wisconsin,9
+Puerto Rico,Wyoming,6
+Recovered,Rhode Island,6
+Recovered,South Carolina,7
+Recovered,South Dakota,3
+Recovered,Tennessee,8
+Recovered,Texas,10
+Recovered,Utah,4
+Recovered,Vermont,5
+Recovered,Virgin Islands,1
+Recovered,Virginia,9
+Recovered,Washington,12
+Recovered,West Virginia,3
+Recovered,Wisconsin,9
+Recovered,Wyoming,1
+Rhode Island,South Carolina,9
+Rhode Island,South Dakota,7
+Rhode Island,Tennessee,9
+Rhode Island,Texas,11
+Rhode Island,Utah,7
+Rhode Island,Vermont,7
+Rhode Island,Virgin Islands,6
+Rhode Island,Virginia,10
+Rhode Island,Washington,13
+Rhode Island,West Virginia,7
+Rhode Island,Wisconsin,10
+Rhode Island,Wyoming,6
+South Carolina,South Dakota,7
+South Carolina,Tennessee,10
+South Carolina,Texas,11
+South Carolina,Utah,8
+South Carolina,Vermont,8
+South Carolina,Virgin Islands,7
+South Carolina,Virginia,10
+South Carolina,Washington,13
+South Carolina,West Virginia,7
+South Carolina,Wisconsin,10
+South Carolina,Wyoming,7
+South Dakota,Tennessee,8
+South Dakota,Texas,10
+South Dakota,Utah,5
+South Dakota,Vermont,6
+South Dakota,Virgin Islands,3
+South Dakota,Virginia,9
+South Dakota,Washington,12
+South Dakota,West Virginia,4
+South Dakota,Wisconsin,9
+South Dakota,Wyoming,3
+Tennessee,Texas,11
+Tennessee,Utah,9
+Tennessee,Vermont,9
+Tennessee,Virgin Islands,8
+Tennessee,Virginia,10
+Tennessee,Washington,13
+Tennessee,West Virginia,8
+Tennessee,Wisconsin,10
+Tennessee,Wyoming,8
+Texas,Utah,11
+Texas,Vermont,11
+Texas,Virgin Islands,10
+Texas,Virginia,11
+Texas,Washington,14
+Texas,West Virginia,10
+Texas,Wisconsin,11
+Texas,Wyoming,10
+Utah,Vermont,6
+Utah,Virgin Islands,5
+Utah,Virginia,9
+Utah,Washington,13
+Utah,West Virginia,5
+Utah,Wisconsin,9
+Utah,Wyoming,4
+Vermont,Virgin Islands,5
+Vermont,Virginia,9
+Vermont,Washington,13
+Vermont,West Virginia,6
+Vermont,Wisconsin,9
+Vermont,Wyoming,5
+Virgin Islands,Virginia,9
+Virgin Islands,Washington,12
+Virgin Islands,West Virginia,3
+Virgin Islands,Wisconsin,9
+Virgin Islands,Wyoming,1
+Virginia,Washington,13
+Virginia,West Virginia,9
+Virginia,Wisconsin,11
+Virginia,Wyoming,9
+Washington,West Virginia,12
+Washington,Wisconsin,13
+Washington,Wyoming,12
+West Virginia,Wisconsin,9
+West Virginia,Wyoming,3
+Wisconsin,Wyoming,9
+Anhui,Beijing,5
+Anhui,Chongqing,4
+Anhui,Fujian,3
+Anhui,Gansu,4
+Anhui,Guangdong,5
+Anhui,Guangxi,4
+Anhui,Guizhou,4
+Anhui,Hainan,4
+Anhui,Hebei,4
+Anhui,Heilongjiang,5
+Anhui,Henan,6
+Anhui,Hubei,15
+Anhui,Hunan,4
+Anhui,Inner Mongolia,3
+Anhui,Jiangsu,3
+Anhui,Jiangxi,3
+Anhui,Jilin,3
+Anhui,Liaoning,4
+Anhui,Ningxia,3
+Anhui,Qinghai,3
+Anhui,Shaanxi,4
+Anhui,Shandong,4
+Anhui,Shanghai,4
+Anhui,Shanxi,3
+Anhui,Sichuan,4
+Anhui,Tianjin,4
+Anhui,Tibet,3
+Anhui,Xinjiang,4
+Anhui,Yunnan,4
+Anhui,Zhejiang,3
+Beijing,Chongqing,5
+Beijing,Fujian,4
+Beijing,Gansu,4
+Beijing,Guangdong,5
+Beijing,Guangxi,4
+Beijing,Guizhou,4
+Beijing,Hainan,5
+Beijing,Hebei,5
+Beijing,Heilongjiang,5
+Beijing,Henan,6
+Beijing,Hubei,15
+Beijing,Hunan,4
+Beijing,Inner Mongolia,4
+Beijing,Jiangsu,4
+Beijing,Jiangxi,4
+Beijing,Jilin,4
+Beijing,Liaoning,4
+Beijing,Ningxia,4
+Beijing,Qinghai,4
+Beijing,Shaanxi,4
+Beijing,Shandong,5
+Beijing,Shanghai,5
+Beijing,Shanxi,4
+Beijing,Sichuan,4
+Beijing,Tianjin,4
+Beijing,Tibet,4
+Beijing,Xinjiang,4
+Beijing,Yunnan,4
+Beijing,Zhejiang,4
+Chongqing,Fujian,3
+Chongqing,Gansu,4
+Chongqing,Guangdong,5
+Chongqing,Guangxi,4
+Chongqing,Guizhou,4
+Chongqing,Hainan,4
+Chongqing,Hebei,4
+Chongqing,Heilongjiang,5
+Chongqing,Henan,6
+Chongqing,Hubei,15
+Chongqing,Hunan,4
+Chongqing,Inner Mongolia,3
+Chongqing,Jiangsu,3
+Chongqing,Jiangxi,3
+Chongqing,Jilin,3
+Chongqing,Liaoning,4
+Chongqing,Ningxia,3
+Chongqing,Qinghai,3
+Chongqing,Shaanxi,4
+Chongqing,Shandong,4
+Chongqing,Shanghai,4
+Chongqing,Shanxi,3
+Chongqing,Sichuan,4
+Chongqing,Tianjin,4
+Chongqing,Tibet,3
+Chongqing,Xinjiang,4
+Chongqing,Yunnan,4
+Chongqing,Zhejiang,3
+Fujian,Gansu,2
+Fujian,Guangdong,4
+Fujian,Guangxi,2
+Fujian,Guizhou,2
+Fujian,Hainan,3
+Fujian,Hebei,3
+Fujian,Heilongjiang,5
+Fujian,Henan,5
+Fujian,Hubei,15
+Fujian,Hunan,3
+Fujian,Inner Mongolia,2
+Fujian,Jiangsu,1
+Fujian,Jiangxi,2
+Fujian,Jilin,2
+Fujian,Liaoning,2
+Fujian,Ningxia,1
+Fujian,Qinghai,1
+Fujian,Shaanxi,3
+Fujian,Shandong,4
+Fujian,Shanghai,4
+Fujian,Shanxi,1
+Fujian,Sichuan,3
+Fujian,Tianjin,3
+Fujian,Tibet,1
+Fujian,Xinjiang,3
+Fujian,Yunnan,2
+Fujian,Zhejiang,2
+Gansu,Guangdong,4
+Gansu,Guangxi,3
+Gansu,Guizhou,3
+Gansu,Hainan,4
+Gansu,Hebei,4
+Gansu,Heilongjiang,5
+Gansu,Henan,5
+Gansu,Hubei,15
+Gansu,Hunan,3
+Gansu,Inner Mongolia,2
+Gansu,Jiangsu,2
+Gansu,Jiangxi,2
+Gansu,Jilin,2
+Gansu,Liaoning,3
+Gansu,Ningxia,2
+Gansu,Qinghai,2
+Gansu,Shaanxi,3
+Gansu,Shandong,4
+Gansu,Shanghai,4
+Gansu,Shanxi,2
+Gansu,Sichuan,3
+Gansu,Tianjin,3
+Gansu,Tibet,2
+Gansu,Xinjiang,3
+Gansu,Yunnan,3
+Gansu,Zhejiang,2
+Guangdong,Guangxi,4
+Guangdong,Guizhou,4
+Guangdong,Hainan,5
+Guangdong,Hebei,5
+Guangdong,Heilongjiang,5
+Guangdong,Henan,6
+Guangdong,Hubei,15
+Guangdong,Hunan,4
+Guangdong,Inner Mongolia,4
+Guangdong,Jiangsu,4
+Guangdong,Jiangxi,4
+Guangdong,Jilin,4
+Guangdong,Liaoning,4
+Guangdong,Ningxia,4
+Guangdong,Qinghai,4
+Guangdong,Shaanxi,4
+Guangdong,Shandong,5
+Guangdong,Shanghai,5
+Guangdong,Shanxi,4
+Guangdong,Sichuan,4
+Guangdong,Tianjin,4
+Guangdong,Tibet,4
+Guangdong,Xinjiang,4
+Guangdong,Yunnan,4
+Guangdong,Zhejiang,4
+Guangxi,Guizhou,3
+Guangxi,Hainan,4
+Guangxi,Hebei,4
+Guangxi,Heilongjiang,5
+Guangxi,Henan,5
+Guangxi,Hubei,15
+Guangxi,Hunan,3
+Guangxi,Inner Mongolia,2
+Guangxi,Jiangsu,2
+Guangxi,Jiangxi,2
+Guangxi,Jilin,2
+Guangxi,Liaoning,3
+Guangxi,Ningxia,2
+Guangxi,Qinghai,2
+Guangxi,Shaanxi,3
+Guangxi,Shandong,4
+Guangxi,Shanghai,4
+Guangxi,Shanxi,2
+Guangxi,Sichuan,3
+Guangxi,Tianjin,3
+Guangxi,Tibet,2
+Guangxi,Xinjiang,3
+Guangxi,Yunnan,3
+Guangxi,Zhejiang,2
+Guizhou,Hainan,4
+Guizhou,Hebei,4
+Guizhou,Heilongjiang,5
+Guizhou,Henan,5
+Guizhou,Hubei,15
+Guizhou,Hunan,3
+Guizhou,Inner Mongolia,2
+Guizhou,Jiangsu,2
+Guizhou,Jiangxi,2
+Guizhou,Jilin,2
+Guizhou,Liaoning,3
+Guizhou,Ningxia,2
+Guizhou,Qinghai,2
+Guizhou,Shaanxi,3
+Guizhou,Shandong,4
+Guizhou,Shanghai,4
+Guizhou,Shanxi,2
+Guizhou,Sichuan,3
+Guizhou,Tianjin,3
+Guizhou,Tibet,2
+Guizhou,Xinjiang,3
+Guizhou,Yunnan,3
+Guizhou,Zhejiang,2
+Hainan,Hebei,4
+Hainan,Heilongjiang,5
+Hainan,Henan,6
+Hainan,Hubei,15
+Hainan,Hunan,4
+Hainan,Inner Mongolia,3
+Hainan,Jiangsu,3
+Hainan,Jiangxi,3
+Hainan,Jilin,3
+Hainan,Liaoning,4
+Hainan,Ningxia,3
+Hainan,Qinghai,3
+Hainan,Shaanxi,4
+Hainan,Shandong,4
+Hainan,Shanghai,4
+Hainan,Shanxi,3
+Hainan,Sichuan,4
+Hainan,Tianjin,4
+Hainan,Tibet,3
+Hainan,Xinjiang,4
+Hainan,Yunnan,4
+Hainan,Zhejiang,3
+Hebei,Heilongjiang,5
+Hebei,Henan,6
+Hebei,Hubei,15
+Hebei,Hunan,4
+Hebei,Inner Mongolia,3
+Hebei,Jiangsu,3
+Hebei,Jiangxi,3
+Hebei,Jilin,3
+Hebei,Liaoning,4
+Hebei,Ningxia,3
+Hebei,Qinghai,3
+Hebei,Shaanxi,4
+Hebei,Shandong,4
+Hebei,Shanghai,4
+Hebei,Shanxi,3
+Hebei,Sichuan,4
+Hebei,Tianjin,4
+Hebei,Tibet,3
+Hebei,Xinjiang,4
+Hebei,Yunnan,4
+Hebei,Zhejiang,3
+Heilongjiang,Henan,6
+Heilongjiang,Hubei,15
+Heilongjiang,Hunan,5
+Heilongjiang,Inner Mongolia,5
+Heilongjiang,Jiangsu,4
+Heilongjiang,Jiangxi,5
+Heilongjiang,Jilin,5
+Heilongjiang,Liaoning,5
+Heilongjiang,Ningxia,4
+Heilongjiang,Qinghai,4
+Heilongjiang,Shaanxi,5
+Heilongjiang,Shandong,5
+Heilongjiang,Shanghai,5
+Heilongjiang,Shanxi,4
+Heilongjiang,Sichuan,5
+Heilongjiang,Tianjin,5
+Heilongjiang,Tibet,4
+Heilongjiang,Xinjiang,5
+Heilongjiang,Yunnan,5
+Heilongjiang,Zhejiang,5
+Henan,Hubei,15
+Henan,Hunan,6
+Henan,Inner Mongolia,5
+Henan,Jiangsu,5
+Henan,Jiangxi,5
+Henan,Jilin,5
+Henan,Liaoning,5
+Henan,Ningxia,5
+Henan,Qinghai,5
+Henan,Shaanxi,5
+Henan,Shandong,6
+Henan,Shanghai,6
+Henan,Shanxi,5
+Henan,Sichuan,5
+Henan,Tianjin,5
+Henan,Tibet,5
+Henan,Xinjiang,5
+Henan,Yunnan,5
+Henan,Zhejiang,5
+Hubei,Hunan,15
+Hubei,Inner Mongolia,15
+Hubei,Jiangsu,15
+Hubei,Jiangxi,15
+Hubei,Jilin,15
+Hubei,Liaoning,15
+Hubei,Ningxia,15
+Hubei,Qinghai,15
+Hubei,Shaanxi,15
+Hubei,Shandong,15
+Hubei,Shanghai,15
+Hubei,Shanxi,15
+Hubei,Sichuan,15
+Hubei,Tianjin,15
+Hubei,Tibet,15
+Hubei,Xinjiang,15
+Hubei,Yunnan,15
+Hubei,Zhejiang,15
+Hunan,Inner Mongolia,3
+Hunan,Jiangsu,3
+Hunan,Jiangxi,3
+Hunan,Jilin,3
+Hunan,Liaoning,3
+Hunan,Ningxia,3
+Hunan,Qinghai,3
+Hunan,Shaanxi,3
+Hunan,Shandong,4
+Hunan,Shanghai,4
+Hunan,Shanxi,3
+Hunan,Sichuan,3
+Hunan,Tianjin,3
+Hunan,Tibet,3
+Hunan,Xinjiang,3
+Hunan,Yunnan,3
+Hunan,Zhejiang,3
+Inner Mongolia,Jiangsu,1
+Inner Mongolia,Jiangxi,2
+Inner Mongolia,Jilin,2
+Inner Mongolia,Liaoning,2
+Inner Mongolia,Ningxia,1
+Inner Mongolia,Qinghai,1
+Inner Mongolia,Shaanxi,3
+Inner Mongolia,Shandong,4
+Inner Mongolia,Shanghai,4
+Inner Mongolia,Shanxi,1
+Inner Mongolia,Sichuan,3
+Inner Mongolia,Tianjin,3
+Inner Mongolia,Tibet,1
+Inner Mongolia,Xinjiang,3
+Inner Mongolia,Yunnan,2
+Inner Mongolia,Zhejiang,2
+Jiangsu,Jiangxi,1
+Jiangsu,Jilin,1
+Jiangsu,Liaoning,2
+Jiangsu,Ningxia,1
+Jiangsu,Qinghai,1
+Jiangsu,Shaanxi,2
+Jiangsu,Shandong,3
+Jiangsu,Shanghai,3
+Jiangsu,Shanxi,1
+Jiangsu,Sichuan,2
+Jiangsu,Tianjin,2
+Jiangsu,Tibet,1
+Jiangsu,Xinjiang,2
+Jiangsu,Yunnan,2
+Jiangsu,Zhejiang,1
+Jiangxi,Jilin,2
+Jiangxi,Liaoning,2
+Jiangxi,Ningxia,1
+Jiangxi,Qinghai,1
+Jiangxi,Shaanxi,3
+Jiangxi,Shandong,4
+Jiangxi,Shanghai,4
+Jiangxi,Shanxi,1
+Jiangxi,Sichuan,3
+Jiangxi,Tianjin,3
+Jiangxi,Tibet,1
+Jiangxi,Xinjiang,3
+Jiangxi,Yunnan,2
+Jiangxi,Zhejiang,2
+Jilin,Liaoning,2
+Jilin,Ningxia,1
+Jilin,Qinghai,1
+Jilin,Shaanxi,3
+Jilin,Shandong,4
+Jilin,Shanghai,4
+Jilin,Shanxi,1
+Jilin,Sichuan,3
+Jilin,Tianjin,3
+Jilin,Tibet,1
+Jilin,Xinjiang,3
+Jilin,Yunnan,2
+Jilin,Zhejiang,2
+Liaoning,Ningxia,2
+Liaoning,Qinghai,2
+Liaoning,Shaanxi,3
+Liaoning,Shandong,4
+Liaoning,Shanghai,4
+Liaoning,Shanxi,2
+Liaoning,Sichuan,3
+Liaoning,Tianjin,3
+Liaoning,Tibet,2
+Liaoning,Xinjiang,3
+Liaoning,Yunnan,3
+Liaoning,Zhejiang,2
+Ningxia,Qinghai,1
+Ningxia,Shaanxi,2
+Ningxia,Shandong,3
+Ningxia,Shanghai,3
+Ningxia,Shanxi,1
+Ningxia,Sichuan,2
+Ningxia,Tianjin,2
+Ningxia,Tibet,1
+Ningxia,Xinjiang,2
+Ningxia,Yunnan,2
+Ningxia,Zhejiang,1
+Qinghai,Shaanxi,2
+Qinghai,Shandong,3
+Qinghai,Shanghai,3
+Qinghai,Shanxi,1
+Qinghai,Sichuan,2
+Qinghai,Tianjin,2
+Qinghai,Tibet,1
+Qinghai,Xinjiang,2
+Qinghai,Yunnan,2
+Qinghai,Zhejiang,1
+Shaanxi,Shandong,4
+Shaanxi,Shanghai,4
+Shaanxi,Shanxi,2
+Shaanxi,Sichuan,3
+Shaanxi,Tianjin,3
+Shaanxi,Tibet,2
+Shaanxi,Xinjiang,3
+Shaanxi,Yunnan,3
+Shaanxi,Zhejiang,3
+Shandong,Shanghai,5
+Shandong,Shanxi,3
+Shandong,Sichuan,4
+Shandong,Tianjin,4
+Shandong,Tibet,3
+Shandong,Xinjiang,4
+Shandong,Yunnan,4
+Shandong,Zhejiang,4
+Shanghai,Shanxi,3
+Shanghai,Sichuan,4
+Shanghai,Tianjin,4
+Shanghai,Tibet,3
+Shanghai,Xinjiang,4
+Shanghai,Yunnan,4
+Shanghai,Zhejiang,4
+Shanxi,Sichuan,2
+Shanxi,Tianjin,2
+Shanxi,Tibet,1
+Shanxi,Xinjiang,2
+Shanxi,Yunnan,2
+Shanxi,Zhejiang,1
+Sichuan,Tianjin,3
+Sichuan,Tibet,2
+Sichuan,Xinjiang,3
+Sichuan,Yunnan,3
+Sichuan,Zhejiang,3
+Tianjin,Tibet,2
+Tianjin,Xinjiang,3
+Tianjin,Yunnan,3
+Tianjin,Zhejiang,3
+Tibet,Xinjiang,2
+Tibet,Yunnan,2
+Tibet,Zhejiang,1
+Xinjiang,Yunnan,3
+Xinjiang,Zhejiang,3
+Yunnan,Zhejiang,2
+Faroe Islands,Greenland,1
+Anguilla,Bermuda,3
+Anguilla,British Virgin Islands,1
+Anguilla,Cayman Islands,1
+Anguilla,Channel Islands,4
+Anguilla,Falkland Islands (Malvinas),1
+Anguilla,Gibraltar,1
+Anguilla,Isle of Man,1
+Anguilla,Montserrat,1
+Anguilla,Turks and Caicos Islands,1
+Bermuda,British Virgin Islands,3
+Bermuda,Cayman Islands,3
+Bermuda,Channel Islands,4
+Bermuda,Falkland Islands (Malvinas),3
+Bermuda,Gibraltar,3
+Bermuda,Isle of Man,3
+Bermuda,Montserrat,3
+Bermuda,Turks and Caicos Islands,3
+British Virgin Islands,Cayman Islands,1
+British Virgin Islands,Channel Islands,4
+British Virgin Islands,Falkland Islands (Malvinas),1
+British Virgin Islands,Gibraltar,1
+British Virgin Islands,Isle of Man,1
+British Virgin Islands,Montserrat,1
+British Virgin Islands,Turks and Caicos Islands,1
+Cayman Islands,Channel Islands,4
+Cayman Islands,Falkland Islands (Malvinas),1
+Cayman Islands,Gibraltar,1
+Cayman Islands,Isle of Man,2
+Cayman Islands,Montserrat,1
+Cayman Islands,Turks and Caicos Islands,2
+Channel Islands,Falkland Islands (Malvinas),4
+Channel Islands,Gibraltar,4
+Channel Islands,Isle of Man,4
+Channel Islands,Montserrat,4
+Channel Islands,Turks and Caicos Islands,4
+Falkland Islands (Malvinas),Gibraltar,1
+Falkland Islands (Malvinas),Isle of Man,1
+Falkland Islands (Malvinas),Montserrat,1
+Falkland Islands (Malvinas),Turks and Caicos Islands,1
+Gibraltar,Isle of Man,1
+Gibraltar,Montserrat,1
+Gibraltar,Turks and Caicos Islands,1
+Isle of Man,Montserrat,1
+Isle of Man,Turks and Caicos Islands,2
+Montserrat,Turks and Caicos Islands,1

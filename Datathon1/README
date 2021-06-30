@@ -1,0 +1,25 @@
+The Submission folder contains :
+
+1. Code
+2. Datathon1TechnicalReport.pdf
+3. README
+
+The pipeline to produce the final output for {any variable} is as follows :
+
+1. In the (Stage 1)... folder, run the file ocean_analysis_{variable}.py. This will generate the 147 time frames as jpg images.
+2. Next, in the (Stage 2)... folder, run the preprocess.py. This will prepare the images for the final output.
+3. Lastly, from the (Stage 3)... folder, run gifgenerator.py to produe the final output.  
+
+The separation was done to keep a track of the individual frames for better analysis. 
+
+
+Additionally,
+The Datathon1TechnicalReport.pdf contains a google drive link to a more complete submission folder in its abstract. Please refer to the same.
+
+The additional submissions include : 
+
+1. Final_Outputs (A folder containing the final gif files for each variable).
+2. Intermediate_Images (A folder containing the images generated after Stage 1 for each variable).
+3. Tsunami_Study (A folder containing the images depicitng effect of Tsunami for personal references).
+
+

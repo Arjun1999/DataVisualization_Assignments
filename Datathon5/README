@@ -1,0 +1,14 @@
+Submission Version : Final Version
+
+The Submission contains : 
+
+1. Images 				-> Visualizations used in the Report
+2. Datathon4.csv 			-> The dataset used
+3. Datathon5TechnicalReport.pdf 	-> Technical Report
+4. CodePipeline				-> (i)   DimensionReduction.py
+					   (ii)  economic_analysis.py
+					   (iii) trade_network_generator.py
+					   (iv)  edges_economy.csv {Sample Output from trade_network_generator.py}
+
+5. EconomyTrading.gephi			-> Gephi Files for Networks generated.
+6. README

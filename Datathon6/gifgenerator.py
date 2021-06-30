@@ -1,0 +1,12 @@
+from PIL import Image
+import  numpy as np
+
+image_frames = []
+
+days = np.arange(0,16)
+
+for i in days:
+    new_frame =  Image.open("/home/arjun/Desktop/Semester_7/DataVisualization/Datathon6/Import_Choropleths/choropleth_Import_" + str(2000 + i) + ".jpeg")
+    image_frames.append(new_frame)
+
+image_frames[0].save("Import_timelapse.gif", format = 'GIF', append_images = image_frames[1: ], save_all = True, duration = 250, loop = 0)
